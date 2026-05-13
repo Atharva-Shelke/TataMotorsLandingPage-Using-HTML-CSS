@@ -10,7 +10,7 @@ This project demonstrates frontend fundamentals such as navigation bars, hero se
 
 ---
 
-## 📌 Features
+## ✨ Features
 
 * Fixed navigation bar
 * Hero banner with fullscreen background image
@@ -45,7 +45,7 @@ tata-motors-landing-page/
 
 ## ⚙️ Page Sections
 
-### 🧭 Navigation Bar
+### ☰ Navigation Bar
 
 Contains:
 
