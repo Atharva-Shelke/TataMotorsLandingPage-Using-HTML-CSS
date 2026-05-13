@@ -1,4 +1,4 @@
-# 🚗 Tata Motors Landing Page using HTML & CSS
+﻿# 🚗 Tata Motors Landing Page using HTML & CSS
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
@@ -115,19 +115,9 @@ Use VS Code Live Server extension.
 
 ---
 
-## 📄 Sample UI Elements
+## 📸 Screenshot
 
-### Navigation Menu
-
-```html
-<li><a href="https://www.tatamotors.com/about-us/">About Us</a></li>
-```
-
-### Hero Title
-
-```html
-<div class="title">TATA SUV</div>
-```
+![Home](screenshots/home.png)
 
 ---
 
